@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc18881-7120-454c-9879-e4ca204a5d50" name="Changes" comment="выполнена второе дз">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TwoHomeWork.java" afterDir="false" />
+    <list default="true" id="acc18881-7120-454c-9879-e4ca204a5d50" name="Changes" comment="выполнено второе дз">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29YuE8Gc4ykFJI89EA3ZUADDZnb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653302230237</updated>
     </task>
+    <task id="LOCAL-00001" summary="выполнено второе дз">
+      <created>1653303216943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653303216943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="выполнена второе дз" />
-    <option name="LAST_COMMIT_MESSAGE" value="выполнена второе дз" />
+    <MESSAGE value="выполнено второе дз" />
+    <option name="LAST_COMMIT_MESSAGE" value="выполнено второе дз" />
   </component>
 </project>
